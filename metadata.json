@@ -1,0 +1,8 @@
+{
+  "name": "CivicFlow – Smart Municipal Complaint Management System",
+  "description": "AI/ML-based municipal complaint management platform featuring automated complaint classification, urgency-based priority estimation, TF-IDF cosine duplicate detection, and dedicated workflows for Citizens, Municipal Administrators, and Department Staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
